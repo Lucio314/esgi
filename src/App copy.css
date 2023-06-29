@@ -3,31 +3,39 @@ img {
   width: 100%;
   height: auto;
 }
-table, td, th {
+
+table,
+td,
+th {
   border: 1px solid #000;
 }
+
 table {
   width: 100%;
   border-collapse: collapse;
 }
+
 td {
   padding: 0 5px;
 }
+
 .wrapper {
   margin: 0 1rem;
 }
+
 .d-flex {
   display: flex;
   align-items: center;
   column-gap: 1rem;
 }
+
 .t-center {
   text-align: center;
 }
 
-/* HEADER STYLES */
-.header {
-}
+/* HEADER STYLES
+.header {} */
+
 .header-logo {
   width: 120px;
 }
@@ -35,10 +43,8 @@ td {
 
 
 /* SECTIONS STYLES */
-.section {
+/*.section {}*/
 
-}
 .section-title {
   text-decoration: underline;
 }
-
